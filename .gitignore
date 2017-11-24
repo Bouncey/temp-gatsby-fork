@@ -50,4 +50,4 @@ node_modules/
 
 .serverless/
 
-src/
+src
